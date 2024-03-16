@@ -4,7 +4,6 @@
     <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
     <envs>
       <env name="SERVER_PORT" value="8091" />
-      <env name="TEAMS_MONITORING_URL" value="https://lrsrv.webhook.office.com/webhookb2/1814a6a2-8573-4afc-9bb6-8906ab493b42@7e846d8b-29d8-494c-8c2a-934300230760/IncomingWebhook/30845a8fea4847deab566487b865b5cd/80849926-a5cc-48e1-9068-083db7880fec" />
     </envs>
     <module name="dynamic-servers.dynamic-servers-server-watcher.main" />
     <option name="SPRING_BOOT_MAIN_CLASS" value="net.vellity.dynamic.servers.server.watcher.DynamicServersServerWatcherApplication" />
