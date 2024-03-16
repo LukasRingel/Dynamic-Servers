@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Backend" type="CompoundRunConfigurationType">
+    <toRun name="Log-Storage" type="SpringBootApplicationConfigurationType" />
+    <toRun name="Log-Viewer" type="SpringBootApplicationConfigurationType" />
+    <toRun name="Operations" type="SpringBootApplicationConfigurationType" />
+    <toRun name="Server-Registry" type="SpringBootApplicationConfigurationType" />
+    <toRun name="Startup-Queue" type="SpringBootApplicationConfigurationType" />
+    <toRun name="Templates" type="SpringBootApplicationConfigurationType" />
+    <method v="2" />
+  </configuration>
+</component>

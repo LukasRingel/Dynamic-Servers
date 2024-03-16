@@ -1,0 +1,14 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Startup-Queue" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ALTERNATIVE_JRE_PATH" value="21" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="SERVER_PORT" value="8082" />
+    </envs>
+    <module name="dynamic-servers.dynamic-servers-startup-queue.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="net.vellity.dynamic.servers.startup.queue.DynamicServersStartupQueueApplication" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

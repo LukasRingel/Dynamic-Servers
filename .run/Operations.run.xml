@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Operations" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="ALTERNATIVE_JRE_PATH" value="21" />
+    <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <envs>
+      <env name="SERVER_PORT" value="8080" />
+    </envs>
+    <module name="dynamic-servers.dynamic-servers-operations.main" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="net.vellity.dynamic.servers.operations.DynamicServersOperationsApplication" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="net.vellity.dynamic.servers.operations.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>

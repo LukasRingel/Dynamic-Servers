@@ -1,0 +1,6 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Build Minecraft Jars" type="CompoundRunConfigurationType">
+    <toRun name="Build Velocity Jar" type="GradleRunConfiguration" />
+    <method v="2" />
+  </configuration>
+</component>
